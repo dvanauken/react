@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Summary
 
 This project is a React-based front-end application for the [sb-jpa-h2](https://github.com/dvanauken/sb-jpa-h2) project, a Java-based REST API. The project uses [React 18](https://reactjs.org/docs/getting-started.html) for building the user interface.
 
