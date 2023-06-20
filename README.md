@@ -1,7 +1,5 @@
 # Getting Started with Create React App
 
-# ReactApp
-
 This project is a React-based front-end application for the [sb-jpa-h2](https://github.com/dvanauken/sb-jpa-h2) project, a Java-based REST API. The project uses [React 18](https://reactjs.org/docs/getting-started.html) for building the user interface.
 
 The application also utilizes the [MUI Material library](https://mui.com/) to provide a modern and responsive design. MUI Material is a popular React UI framework for faster and easier web development.
